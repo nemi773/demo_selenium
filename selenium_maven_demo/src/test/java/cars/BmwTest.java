@@ -11,6 +11,7 @@ public class BmwTest {
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.bmw.in/en/index.html");
 		Reporter.log("bmw",true);
+		Reporter.log("bmw",true);
 	}
 
 }
